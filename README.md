@@ -1,16 +1,24 @@
-## Hi there 👋
+# Привет, меня зовут Eredin  👋
 
-<!--
-**Eredin1272/Eredin1272** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Я изучаю **Python** и **JavaScript**  
+🧠 Изучаю **Node.js** и активно развиваюсь дальше  
+🚀 Сейчас учусь и накапливаю опыт, работаю над своими проектами  
+🎮 Увлекаюсь играми и хочу поделиться своим профилем в Steam: [Мой Steam] [https://steamcommunity.com/](https://steamcommunity.com/profiles/76561199088568416/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnZvMzF3ZDNuMG9yeTkwZHR3MWIybXJrM3dxenQzZ2RzY2lwbmkxMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TIcqppfavXjhqxhUVV/giphy.gif">
+
+---
+
+## 🛠️ Навыки и технологии
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
+
+
+### P. S.
+*" Строить великие планы легче, чем воплощать их в жизнь. "*
+
