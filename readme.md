@@ -14,6 +14,7 @@
 
 ## Языки программирования
 ### Базовые знания :
+- HTML, CSS
 - Java
 - Python
 - JavaScript
