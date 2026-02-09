@@ -20,7 +20,7 @@
 - SQL
 
 ### Изучаю :
-- Spring Boot
+- Spring Framework
 
 ### Хочу изучить:
 - PHP
